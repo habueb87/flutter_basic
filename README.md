@@ -1,4 +1,6 @@
-# flutter_basic
+# Tugas Praktikum Minggu 10
+
+3A / 29 / 2041720183 / Satria Alief Pratama S
 
 A new Flutter project.
 
